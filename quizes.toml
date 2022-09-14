@@ -1,0 +1,35 @@
+[python]
+label = "Python"
+
+[[python.quizes]]
+quiz = "What's a PEP"
+answs = ["A Python Enhancement Proposal"]
+choices = [
+    "A Pretty Exciting Policy",
+    "A Preciously Evolved Python",
+    "A Potentially Epic Prize",
+    ]
+hint = "PEPs are used to evolve Python."
+explanation = """
+    Python Enhancement Proposals (PEPs) are design documents that provide
+    information to the Python community. PEPs are used to propose new features
+    for the Python language, to collect community input on an issue, and to
+    document design decisions made about the language.
+"""
+
+
+
+
+[geography]
+label = "Geography"
+
+[[geography.quizes]]
+quiz = "Kenya is located in which continent."
+answs = ["Africa"]
+hint = "The cradle of human kind."
+choices = ["South Africa", "East Africa", "Middle East"]
+explanation = """
+    Kenya is one of the best developed country in Africa.
+    It is recognised internationally as a hub of technological 
+    adventures and as a sporting nation.
+"""
