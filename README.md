@@ -1,3 +1,3 @@
-# A Terminal App
+# Quiz App
 
 An interactive question and answer application that runs on the command line.
